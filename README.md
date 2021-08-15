@@ -58,7 +58,6 @@
 
 <p align="middle">
 
-<img src="https://raw.githubusercontent.com/devchicala/devchicala/output/github-contribution-grid-snake.svg" />
 
 </p>
 </body>
