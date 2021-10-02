@@ -9,7 +9,7 @@
 <section>
 <p align="middle">
 <a herf="">
-<img src="https://readme-typing-svg.herokuapp.com?font=firecode&color=FFFFFF&center=true&vCenter=true&lines=Web+%26+Mobile+Apps++Developer;React+%23+Flutter+%26React+Native-Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=firecode&color=FFFFFF&center=true&vCenter=true&lines=Web+%26+Mobile+Apps++Developer;React+%24+Flutter+%26React+Native-Apps" />
 </a>
 </p>
 
